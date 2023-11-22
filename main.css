@@ -1,0 +1,16 @@
+#boton{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.nota {
+    width: 170px;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    cursor: move;
+    border: 1px solid #000;
+    text-align: center;
+    padding-top: 10px;
+}
+
